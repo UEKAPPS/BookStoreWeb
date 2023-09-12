@@ -17,4 +17,4 @@ admin= admin@admin.com
 password= Admin00+
 
 user= test@test.com  
-password= Test00+
+password= Test00-
