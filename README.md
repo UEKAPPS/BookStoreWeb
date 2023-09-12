@@ -13,3 +13,5 @@ https://twitter.com/uekapps
 https://bionluk.com/uekapps  
   
   
+admin= admin@admin.com   
+password= Admin00+
